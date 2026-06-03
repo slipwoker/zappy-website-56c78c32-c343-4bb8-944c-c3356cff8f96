@@ -1,0 +1,54 @@
+# פיני גלעד, משרד עריכת דין — Generative Engine Optimization Map
+
+> A boutique law firm with a premium and sophisticated brand identity. The design vision is elegant and authoritative — featuring a deep dark blue background, white typography, and gold/olive accent stripes to convey trust, prestige, and exclusivity. The overall aesthetic is modern and refined, positioning the firm as a high-end legal service provider.
+
+---
+
+## Pages
+
+### דף הבית
+https://-56c78c32.zappy5.app
+משרד בוטיק מוביל המתמחה במקרקעין, ליטיגציה מסחרית ומיסוי. צוות עורכי דין מנוסה מעניק ייעוץ משפטי מדויק ויצירתי. הזמינו פגישה עוד היום.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-56c78c32.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-56c78c32.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-56c78c32.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיני גלעד, משרד עריכת דין
+A boutique law firm with a premium and sophisticated brand identity. The design vision is elegant and authoritative — featuring a deep dark blue background, white typography, and gold/olive accent stripes to convey trust, prestige, and exclusivity. The overall aesthetic is modern and refined, positioning the firm as a high-end legal service provider.
+
+## Target Audience
+- לקוחות בעלי הון גבוה
+- משקיעי נדל"ן
+- מנהלים בכירים בחברות
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-56c78c32.zappy5.app/sitemap.xml
+- Robots: https://-56c78c32.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-56c78c32.zappy5.app/llms-full.txt
