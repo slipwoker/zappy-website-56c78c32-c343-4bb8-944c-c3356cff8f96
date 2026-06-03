@@ -29,8 +29,8 @@ Information about WCAG compliance and accessibility features.
 ## How to Contact Us
 
 - Email: mail@pinigilad.com
-- Phone: +972-3-6950111
-- Phone (tel): tel:+97236950111
+- Phone: 03-6950111
+- Phone (tel): tel:036950111
 - Address: בר כוכבא 23, בני ברק, 5126002
 
 ---
