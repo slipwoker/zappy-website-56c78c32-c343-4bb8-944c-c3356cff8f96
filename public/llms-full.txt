@@ -2,13 +2,13 @@
 
 A boutique law firm with a premium and sophisticated brand identity. The design vision is elegant and authoritative — featuring a deep dark blue background, white typography, and gold/olive accent stripes to convey trust, prestige, and exclusivity. The overall aesthetic is modern and refined, positioning the firm as a high-end legal service provider.
 
-Source: https://-56c78c32.zappy5.app
+Source: https://example.com
 
 ---
 
 ## ייצוג משפטי ללא פשרות — פיני גלעד, משרד עריכת דין
 
-URL: https://-56c78c32.zappy5.app
+URL: https://example.com
 Description: משרד בוטיק מוביל המתמחה במקרקעין, ליטיגציה מסחרית ומיסוי. צוות עורכי דין מנוסה מעניק ייעוץ משפטי מדויק ויצירתי. הזמינו פגישה עוד היום.
 
 ייצוג משפטי ללא פשרות — פיני גלעד, משרד עריכת דין
@@ -488,7 +488,7 @@ Description: משרד בוטיק מוביל המתמחה במקרקעין, לי�
 
 ## מדיניות פרטיות
 
-URL: https://-56c78c32.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -753,7 +753,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-56c78c32.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1027,7 +1027,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-56c78c32.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
