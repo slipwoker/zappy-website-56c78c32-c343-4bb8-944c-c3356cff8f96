@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://pini-gilad-law-office.zappy5.app/sitemap.xml
+Sitemap: https://pinigilad.com/sitemap.xml
