@@ -161,26 +161,31 @@
       // Track button clicks (counted as actions)
       if (target.tagName === 'BUTTON' || target.closest('button')) {
         var button = target.tagName === 'BUTTON' ? target : target.closest('button');
-        trackEvent('click', {
+        var clickMeta = {
           element: 'button',
           text: button.textContent.trim().substring(0, 100),
           id: button.id || null,
           class: button.className || null
-        });
+        };
+        
+        trackEvent('click', clickMeta);
       }
       
       // Track link clicks (navigation - not counted as actions)
       else if (target.tagName === 'A' || target.closest('a')) {
         var link = target.tagName === 'A' ? target : target.closest('a');
-        trackEvent('navigation', {
+        var navMeta = {
           element: 'link',
           text: link.textContent.trim().substring(0, 100),
           href: link.href,
           external: link.hostname !== window.location.hostname
-        });
+        };
+        
+        trackEvent('navigation', navMeta);
       }
     }, true);
   }
+  
   
   // Track form submissions
   if (config.trackFormSubmissions) {
@@ -1157,11 +1162,9 @@
       <!-- Column 4: Business Hours -->
       <div class="footer-col footer-hours-col">
         <h4>שעות פעילות</h4>
-        <ul class="footer-hours">
-          <li><span class="hours-day">ימים א'–ה'</span> <span class="hours-time">09:00–17:00</span></li>
-          <li><span class="hours-day">יום ו'</span> <span class="hours-time">סגור</span></li>
-          <li><span class="hours-day">שבת</span> <span class="hours-time">סגור</span></li>
-        </ul>
+        <ul class="footer-hours"><li><span class="hours-day">יום א’</span> <span class="hours-time">סגור</span></li>
+<li><span class="hours-day">ימים ב’–ה’</span> <span class="hours-time">09:00–17:00</span></li>
+<li><span class="hours-day">ימים ו’–שבת</span> <span class="hours-time">סגור</span></li></ul>
       </div>
 
       <!-- Column 5: Social Media -->
@@ -1171,7 +1174,7 @@
           <a href="https://facebook.com/profile.php?id=100057130493584" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f"></i></a>
           <a href="https://linkedin.com/company/pinigilad" aria-label="LinkedIn" data-element-id="element-ai-1780471645907-lk9m3x" data-element-type="social-link"><i class="fab fa-linkedin-in" data-element-type="icon" data-element-id="icon-1780471977675-18qs3z6cu" data-icon-type="fontawesome"></i></a>
           <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true" style="display:none !important;"><i class="fab fa-instagram"></i></a>
-          <a href="https://wa.me/97236950111" aria-label="WhatsApp" data-zappy-social-placeholder="true"><i class="fab fa-whatsapp"></i></a>
+          <a href="https://wa.me/972544295145" aria-label="WhatsApp" data-zappy-social-placeholder="true"><i class="fab fa-whatsapp"></i></a>
         </div>
       </div>
 
@@ -1192,7 +1195,7 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/97236950111" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/972544295145" class="whatsapp-float" aria-label="WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
   
